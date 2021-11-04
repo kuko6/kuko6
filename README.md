@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![monkeys](monkeys.JPG)
+<img src="monkeys.JPG" alt="monkeys" width="250"/>
 
 <!--
 **kuko6/kuko6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
