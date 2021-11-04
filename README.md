@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<img src="monkeys.JPG" alt="monkeys" width="250"/>
+<img src="images/rowlet-cute.png" alt="monkeys" width="250"/>
+
+<!--
+<img src="images/monkeys.JPG" alt="monkeys" width="250"/> 
+-->
 
 <!--
 **kuko6/kuko6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
