@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="images/rowlet-cute.png" alt="monkeys" width="250"/>
+<img src="images/rowlet-cute.png" alt="monkeys" width="250" align='right'/>
 
 <!--
 <img src="images/monkeys.JPG" alt="monkeys" width="250"/> 
