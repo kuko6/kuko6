@@ -1,12 +1,12 @@
 ### Hi there 👋
-<img src="images/totoro.gif" alt="monkeys" width="250"/> 
+<img src="images/totoro.gif" alt="picture"/> 
 
 <!--
-<img src="images/rowlet-cute.png" alt="rowlet" width="250"/>
+<img src="images/rowlet-cute.png" alt="picture" width="250"/>
 -->
 
 <!--
-<img src="images/monkeys.jpg" alt="monkeys" width="250"/> 
+<img src="images/monkeys.jpg" alt="picture" width="250"/> 
 -->
 
 <!--
