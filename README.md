@@ -2,7 +2,7 @@
 <img src="images/totoro.gif" alt="monkeys" width="250"/> 
 
 <!--
-<img src="images/rowlet-cute.png" alt="monkeys" width="250"/>
+<img src="images/rowlet-cute.png" alt="rowlet" width="250"/>
 -->
 
 <!--
