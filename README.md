@@ -1,5 +1,4 @@
-### Hi there 👋
-<img src="images/totoro.gif" alt="picture"/> 
+<img src="images/totoro.gif" alt="picture" width="350"/> 
 
 <!--
 <img src="images/rowlet-cute.png" alt="picture" width="250"/>
